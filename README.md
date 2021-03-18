@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shamolmojumder
 - 👀 I’m interested in web development and learing new things.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on with you.
+- 💞️ I’m looking for a Web Developer job.
 - 📫 How to reach me whatsapp +8801643422029
 
 <!---
