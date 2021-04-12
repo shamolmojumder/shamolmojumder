@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Javascript and ReactJS.
 - 💞️ I’m looking for a Web Developer job.
 - 📫 How to reach me whatsapp +8801643422029
+- linkedin: (https://www.linkedin.com/in/shamolmojumderdipu/) for more information.
+
 
 <!---
 shamolmojumder/shamolmojumder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
