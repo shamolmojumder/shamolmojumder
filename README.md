@@ -2,7 +2,8 @@
 - 👀 I’m interested in web development and learing new things.
 - 🌱 I’m currently learning Javascript and ReactJS.
 - 💞️ I’m looking for a Web Developer job.
-- 📱 How to reach me whatsapp +8801643422029
+- 📱 [Phone] Phone Number +8801643422029
+- 📱 [whatsapp] (https://api.whatsapp.com/send?phone=01643422029) 
 - 🌐[Website] (https://shamolmojumder.github.io/)
 - 📌[Linkedin] (https://www.linkedin.com/in/shamolmojumderdipu/)
 - 📌[Twitter] (https://twitter.com/shamol_mojumder)
