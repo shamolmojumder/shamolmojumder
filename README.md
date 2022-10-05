@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/h9M3nMN/Screenshot-2021-07-16-at-00-15-44-Shamol-Mojumder-Dipu.png" alt="Shamol Mojumder Dipu" />
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 - 📱 [Phone] Phone Number +8801643422029
-- 📱 [whatsapp] (https://api.whatsapp.com/send?phone=01643422029) 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamolmojumder&label=Profile%20views&color=0e75b6&style=flat" alt="shamolmojumder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamolmojumder" alt="shamolmojumder" /></a> </p>
