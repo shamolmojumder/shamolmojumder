@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shamol Mojumder</h1>
 <img src="https://i.ibb.co/h9M3nMN/Screenshot-2021-07-16-at-00-15-44-Shamol-Mojumder-Dipu.png" alt="Shamol Mojumder Dipu" />
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="left">A passionate frontend developer from Bangladesh</h3>
 - 📱 [Phone] Phone Number +8801643422029
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamolmojumder&label=Profile%20views&color=0e75b6&style=flat" alt="shamolmojumder" /> </p>
@@ -22,13 +22,13 @@
 
 - 📝 I regularly write articles on [dev.to/shamolmojumder](dev.to/shamolmojumder) 
 
-- 📱 [whatsapp] (https://api.whatsapp.com/send?phone=01643422029) 
+- 📱 [whatsapp number:+8801643422029](https://api.whatsapp.com/send?phone=01643422029) 
 
 - 💬 Ask me about **Reactjs,Tailwind CSS**
 
 - 📫 How to reach me **shamolmojumder14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16YMoiwaZga42vmzH_i8aJxXn2SfZtzeK/view?usp=sharing](https://drive.google.com/file/d/16YMoiwaZga42vmzH_i8aJxXn2SfZtzeK/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/16YMoiwaZga42vmzH_i8aJxXn2SfZtzeK/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -48,9 +48,9 @@
 <a href="https://www.behance.net/shamolmojumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shamolmojumder" height="30" width="40" /></a>
 <a href="https://hashnode.com/@shamolmojumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shamolmojumder" height="30" width="40" /></a>
 <a href="https://medium.com/@shamolmojumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shamolmojumder" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shamolmojumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shamolmojumder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC8VlrXmjMHfJ7Ruzr4-fXxQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shamolmojumder" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shamolmojumder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shamolmojumder" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shamolmojumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shamolmojumder" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shamol_mojumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shamolmojumder" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shamolmojumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shamolmojumder" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shamolmojumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shamolmojumder" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/shamolmojumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shamolmojumder" height="30" width="40" /></a>
