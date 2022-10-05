@@ -20,7 +20,9 @@
 
 - 👨‍💻 All of my projects are available at [https://shamolmojumder.github.io/](https://shamolmojumder.github.io/)
 
-- 📝 I regularly write articles on [dev.to/shamolmojumder](dev.to/shamolmojumder)
+- 📝 I regularly write articles on [dev.to/shamolmojumder](dev.to/shamolmojumder) 
+- 
+- 📱 [whatsapp] (https://api.whatsapp.com/send?phone=01643422029) 
 
 - 💬 Ask me about **Reactjs,Tailwind CSS**
 
