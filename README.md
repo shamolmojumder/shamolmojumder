@@ -33,6 +33,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+https://api.daily.dev/devcards/0ca63fcef00f45dab9bfc41d7ec3ac60.png?r=pvf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
