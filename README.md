@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shamol Mojumder</h1>
-<img src="[https://i.ibb.co/h9M3nMN/Screenshot-2021-07-16-at-00-15-44-Shamol-Mojumder-Dipu.png](https://i.ibb.co/Wvs75kp/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png)" alt="Shamol Mojumder Dipu" />
+<img src="https://media.licdn.com/dms/image/D5616AQGSHdAjwDFZJg/profile-displaybackgroundimage-shrink_350_1400/0/1716783799843?e=1722470400&v=beta&t=0cnMWJGIgL7LbqMdFjS-R5QEdEPjLaDbcC1FtW2zP6k" alt="Shamol Mojumder Dipu" />
 <h3 align="left">A passionate frontend developer from Bangladesh</h3>
 - 📱 [Phone] Phone Number +8801643422029
 
@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on [Doctors Portal](github.com/shamols)
 
-- 🤝 I’m looking for help with [Doctors Portal](github.com/shamolmojumder)
+- 🤝 I’m looking for help with [Doctors Portal](github.com/shamolss)
 
 - 👨‍💻 All of my projects are available at [https://shamolmojumder.github.io/](https://shamolmojumder.github.io/)
 
