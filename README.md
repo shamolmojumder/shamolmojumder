@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/shamol_mojumder" target="blank"><img src="https://img.shields.io/twitter/follow/shamol_mojumder?logo=twitter&style=for-the-badge" alt="shamol_mojumder" /></a> </p>
 
-- 🔭 I’m currently working on [Doctors Portal](github.com/shamol)
+- 🔭 I’m currently working on [Doctors Portal](https://github.com/shamolmojumder/b6-doctors-portal-client)
 
 - 🌱 I’m currently learning **React js,Express Js**
 
