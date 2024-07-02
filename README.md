@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **shamolmojumder14@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Q-1xy80YppuLXlakBrh-d0_tCSf5CgKW/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ySBYh_MUuioGr71z0ePjvnP3TAoYGxjv/view?usp=drive_link) 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
